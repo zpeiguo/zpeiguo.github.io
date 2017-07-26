@@ -1,80 +1,18 @@
-# Jekyll Instagram Portfolio Theme
+# front cover jekyll theme
 
-Clean, minimalistic and responsive portfolio theme for Jekyll powered by Bootstrap 4.
-For the portfolio section is used Instagram widget, but you can easily update it with another content source.
+## Why choose this jekyll theme for your front page?
+* You don't have to modify any HTML, everything can be modified in config.yml.
+* Very lightweight. No Javascript, No Bootstrap etc..
+* MIT licensed.
 
-## Live Demo
 
-https://portfolio-central.github.io/jekyll-instagram-portfolio-theme/
-![Jekyll Instagram Portfolio Theme](./screenshot.png "Jekyll Instagram Portfolio Theme")
+## See it in action
+<a href="https://dashingcode.github.io/front-cover/">Live demo page</a>
 
-## Showcase
+## Credits
+The background image that was used as an example comes from Tom Hall.
+You can find it on <a href="https://flic.kr/p/pqEPBb">Flickr</a>.
+It's licensed under Creative-Commons.
 
-The best usage examples:
+This theme makes use of the amazing <a href="http://fontawesome.io/">Font Awesome</a> icons.
 
-- [Pavel Guzenko](http://guzenko.org.ua)
-- [Victor Mikitenko](https://mikitenko-org-ua.github.io/site/)
-- [Anthony Fuentes](http://anthonyfuentes.us/)
-- [Serhii Grytsyshyn](https://grserhii.github.io/)
-
-To add your example: fork the repo, add new line to the list above and create a pull request.
-
-## Featured on
-
-- [Template.net](https://www.template.net/cms-templates/jekyll/jekyll-themes-templates/)
-- [JekyllThemes.org](http://jekyllthemes.org/themes/instagram-portfolio-theme/)
-
-## Powered by
-
-- [Jekyll](https://jekyllrb.com/)
-- [Bootstrap 4](http://v4-alpha.getbootstrap.com/)
-- [jQuery](https://jquery.com/)
-- [SnapWidget](https://snapwidget.com)
-- [Google Fonts: Lobster](https://fonts.google.com/specimen/Lobster)
-- [Font Awesome](http://fontawesome.io/)
-
-## Installation
-Install Jekyll:
-
-```
-gem install jekyll bundler
-```
-
-Install bundle dependiencies:
-
-```
-bundle install
-```
-
-When finished, run the dev server:
-
-```
-bundle exec jekyll serve
-```
-
-or just:
-
-```
-jekyll serve
-
-```
-To stop the server, use `CTRL+C`.
-
-## Building front-end assets: styles and scripts
-
-Install module dependencies:
-
-```
-npm install
-```
-
-Run the build script to generate updated front-end assets:
-
-```
-npm run build
-```
-
-Watch for changes and automatically rebuild assets (`CTRL+C` to stop):
-```
-npm run watch
-```
